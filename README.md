@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prince23092006
+- 👋 Hi, I’m prince kumar
 - 👀 I’m interested in fronted developer
 - 🌱 I’m currently learning Java scirpt
 - 💞️ I’m looking to collaborate on a project
